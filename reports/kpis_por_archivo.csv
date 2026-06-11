@@ -1,0 +1,2 @@
+archivo,salida,filas_totales,filas_validas,descartes_timestamp,descartes_valor,%descartadas,n,min,max,prom,alerts,alerts_pct
+Sensor_DS18B20.csv,Sensor_DS18B20_limpio.csv,250,250,0,0,0.0,250,35.104,37.791,36.300012,102,40.8
