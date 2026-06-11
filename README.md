@@ -2,7 +2,7 @@
 Limpieza de Datos para archivos .csv de sensor de temperatura usando python
 
 ## Integrantes
-Bendezu Corimayhua, Andre Teofanes	 
+Bendezu Corimayhua, Andre Teofanes /	 
 Carbajal Coral Joshua
 
 ## Descripción
